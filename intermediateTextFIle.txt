@@ -1,0 +1,1 @@
+This content of file 'intermediateTextFile.txt' is displayed using execlp().
